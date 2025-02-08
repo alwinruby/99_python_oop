@@ -1,6 +1,6 @@
-#*99 Python OOP*
+# *99 Python OOP*
 
-###*Getting back into programming*
+### *Getting back into programming*
 
 In generic OO terminology, a "method" is defined on an object, and contains behavior.
 You "send a message" to an object to invoke behavior, it might be more common to hear "function" rather
